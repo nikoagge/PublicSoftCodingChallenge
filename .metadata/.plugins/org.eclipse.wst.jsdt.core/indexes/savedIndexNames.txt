@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Users/nikolas/Desktop/Programming/Eclipse/PublicSoftCodingChallenge/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+337411868.index

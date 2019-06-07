@@ -1,0 +1,22 @@
+package com.napps.codingchallenge.service;
+
+
+import java.util.List;
+import com.napps.crudspringbootrestapi.entity.Supplier;
+
+
+public interface SupplierService {
+
+	
+	Supplier saveSupplier(Supplier supplier);
+	
+	Employee updateSupplier(Supplier supplier);
+	
+	List<Employee> getAllEmployees();
+	
+	Employee getSupplier(Long supplierId);
+	
+	void deleteSupplier(Long supplierId);
+	
+	
+}

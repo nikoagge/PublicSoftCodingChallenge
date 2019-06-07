@@ -1,0 +1,5 @@
+package com.napps.codingchallenge.supplierdataaccessobject;
+
+public interface SupplierDataAccessObject {
+
+}

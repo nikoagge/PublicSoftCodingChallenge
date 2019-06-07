@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/Users/nikolas/Desktop/Programming/Eclipse/PublicSoftCodingChallenge/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3527334975.index
+/com.codingchallenge/src/main/resources
+/Users/nikolas/Desktop/Programming/Eclipse/PublicSoftCodingChallenge/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2378963980.index
+/crudspringbootrestapi/src/main/java
+/Users/nikolas/Desktop/Programming/Eclipse/PublicSoftCodingChallenge/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/261609109.index
+/crudspringbootrestapi/src/main/java
